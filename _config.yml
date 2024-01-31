@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: metareflection.club
+description: 
+github:
+  repository.name: metareflection.club
+  repository_url: https://github.com/metareflection
+  owner.name: metareflection.club
+  owner_url: https://metareflection.club
+  is_project_page: true
