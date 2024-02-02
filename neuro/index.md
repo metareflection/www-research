@@ -1,6 +1,6 @@
 # Neuro-Symbolic Isomorphisms (NSIs)
 
-Through the introduction of **Neuro-Symbolic Isomorphisms**, we aim to match the human ability to:
+Through the introduction of **Neuro-Symbolic Isomorphisms**, we aim to create neural networks that can match the human ability to:
 - Reason symbolically.
 - Learn composable skills.
 - Satisfy safety constraints.
