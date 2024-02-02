@@ -13,7 +13,7 @@ We believe that the sample efficiency of human learning arises in part from a ca
 
 ## Formal Verification of Safety
 
-We intend to apply formal software verification techniques in order to establish safety guarantees.
+We intend to apply formal software verification techniques in order to establish safety guarantees about our neural networks.
 
 # Projects
 - Relational Programming Neural Networks
