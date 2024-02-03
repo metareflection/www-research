@@ -16,7 +16,7 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 ## Programming Languages
 
 - Coq, Lean
-- SMTLIB, Dafny, F*
+- SMTLIB, Dafny, Idris, F*
 - Scala, OCaml, F#, SML
 - miniKanren, Prolog
 - Scheme, Common Lisp, Clojure
