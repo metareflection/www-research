@@ -9,7 +9,7 @@ Neuro-Symbolic Models of Computation are neural architectures that are structura
 
 ## Meta-Reflective Programming
 
-We believe that the sample efficiency of human learning arises in part from a capacity for meta-reflection, catching and learning from errors by reasoning about reasoning itself at multiple levels. Thus, we take inspiration from [reflective towers of interpreters](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/) and seek to create meta-reflective neural networks.
+We believe that the sample efficiency of human learning arises in part from a capacity for meta-reflection, catching and learning from errors by reasoning about reasoning itself at multiple levels. Thus, we seek to create meta-reflective neural networks, taking inspiration from [reflective towers of interpreters](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/).
 
 ## Formal Verification of Safety
 
