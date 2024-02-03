@@ -24,7 +24,7 @@ We intend to apply formal software verification techniques in order to establish
 
 # Programming Language of Thought
 
-Cognitive philosopher Jerry Fodor proposed a language of thought as the basis for a computational theory of mind, using metaphors from programming language theory: programs, subroutines calling subroutines, and computation. As programming language theorists and machine learning researchers, we take up the task of formally specifying the semantics of, and implementing, the *programming language of thought*.
+As programming language theorists and machine learning researchers, we take up the task of formally specifying the semantics of, and implementing, the *programming language of thought*.
 
 > One imagines a hierarchy of "executive" programs which function to analyze macrotasks into microtasks. Such programs may 'call' both one another and lower-level problem-solving routines, though the extent of such cross-referencing is limited by the ingenuity of the program and, of course, the overall computational capacity of the machine.
 >
