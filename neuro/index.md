@@ -17,7 +17,7 @@ We intend to apply formal software verification techniques in order to establish
 
 # Projects
 - Relational Programming Neural Networks
-  - The **semKanren Machine** is a relational programming language interpreter that represents all symbols with vector embeddings. The semKanren Machine integrates vector database search into the unification process of miniKanren, enabling what we call *semantic unification*. Semantic unification allows the relational query engine to tolerate semantic ambiguity in queries. As the semKanren Machine is an interpreter, it requires that a programmer provide query code to execute.
+  - The **semKanren Machine** is a relational programming language interpreter that represents all symbols with vector embeddings. The semKanren Machine integrates vector database search into the unification process of miniKanren, enabling what we call *semantic unification*. Semantic unification allows the relational query engine to tolerate semantic ambiguity in queries. As the semKanren Machine is an interpreter, it requires that a programmer provide vector embeddings of query code to execute.
   - The **neuroKanren Machine** augments the semKanren Machine with program learning and program synthesis in order to solve tasks autonomously.
 - Functional Programming Neural Networks
   - The **Neural Lisp Machine** is an interpreter for Neural Lisp, which stores structured information using cons cells as in classical Lisp while representing all symbols with vector embeddings. Like the neuroKanren Machine, it is self-programming and intended to solve tasks autonomously.
