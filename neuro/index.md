@@ -1,11 +1,11 @@
-# Neuro-Symbolic Isomorphisms (NSIs)
+# Neuro-Symbolic Models of Computation (NSMoCs)
 
-Through the introduction of **Neuro-Symbolic Isomorphisms**, we aim to create neural networks that can match the human ability to:
+Through the introduction of **Neuro-Symbolic Models of Computation**, we aim to create neural networks that can match the human ability to:
 - Reason symbolically.
 - Learn composable skills.
 - Satisfy safety constraints.
 
-Neuro-Symbolic Isomorphisms are neural architectures that are structurally equivalent to programming language interpreters. At present, we focus on integrating the logic/relational and functional programming paradigms into neural networks. We expect that Neuro-Symbolic Isomorphisms will improve sample efficiency, interpretability, and task performance.
+Neuro-Symbolic Models of Computation are neural architectures that are structurally equivalent to programming language interpreters. At present, we focus on integrating the logic/relational and functional programming paradigms into neural networks. We expect that Neuro-Symbolic Models of Computation will improve sample efficiency, interpretability, and task performance.
 
 ## Meta-Reflective Programming
 
