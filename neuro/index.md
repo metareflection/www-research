@@ -30,5 +30,6 @@ Cognitive philosopher Jerry Fodor proposed a language of thought as the basis fo
 
 # People
 - [Matthew Retchin](https://mhr.ai)
-- [Will Byrd](http://webyrd.net/)
 - Raffi Sanna
+- [Will Byrd](http://webyrd.net/)
+- [Nada Amin](https://namin.seas.harvard.edu/)
