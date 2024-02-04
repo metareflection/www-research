@@ -26,7 +26,7 @@ We intend to apply formal software verification techniques in order to establish
 
 As programming language theorists and machine learning researchers, we take up the task of formally specifying the semantics of, and implementing, the *programming language of thought*.
 
-> One imagines a hierarchy of "executive" programs which function to analyze macrotasks into microtasks. Such programs may 'call' both one another and lower-level problem-solving routines, though the extent of such cross-referencing is limited by the ingenuity of the program and, of course, the overall computational capacity of the machine.
+> One imagines a hierarchy of "executive" programs which function to analyze macrotasks into microtasks. Such programs may "call" both one another and lower-level problem-solving routines, though the extent of such cross-referencing is limited by the ingenuity of the program and, of course, the overall computational capacity of the machine.
 >
 >
 > —Jerry Fodor in *The Language of Thought* (1975)
