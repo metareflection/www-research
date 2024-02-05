@@ -27,7 +27,7 @@ We intend to apply formal software verification techniques in order to establish
   - The **vectorKanren Machine** is a relational programming language interpreter that represents all symbols with vector embeddings. The vectorKanren Machine integrates vector database search into the unification process of miniKanren, enabling what we call *semantic unification*. Semantic unification allows the relational query engine to tolerate semantic ambiguity in queries. As the vectorKanren Machine is an interpreter, it requires that a programmer provide vector embeddings of query code to execute.
   - The **neuroKanren Machine** is a Spinner, augmenting the vectorKanren Machine with program learning in order to solve tasks autonomously through self-programming.
 
-### Functional Programming Neural Networks
+### Functional Programming
   - The **Neural Lisp Machine** is a Spinner that interprets Neural Lisp, storing structured information using cons cells as in classical Lisp while representing all symbols with vector embeddings. Like the neuroKanren Machine, it is self-programming and intended to solve tasks autonomously.
 
 ## Programming Language of Thought
