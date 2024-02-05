@@ -1,11 +1,13 @@
-# Neuro-Symbolic Models of Computation (NSMoCs)
+# Neuro-Symbolic Artificial Intelligence
 
-Through the introduction of **Neuro-Symbolic Models of Computation**, we aim to create neural networks that can match the human ability to:
+Through the introduction of **Self-Programming Interpreter Neural Networks**, we aim to create neuro-symbolic artificial intelligence systems that can match the human ability to:
 - Reason symbolically.
 - Learn composable skills.
 - Satisfy safety constraints.
 
-Neuro-Symbolic Models of Computation are neural architectures that are structurally equivalent to programming language interpreters. At present, we focus on integrating the logic/relational and functional programming paradigms into neural networks. We expect that Neuro-Symbolic Models of Computation will improve sample efficiency, interpretability, and task performance.
+Self-Programming Interpreter Neural Networks (Spinners) are neural networks that are structurally equivalent to programming language interpreters. We expect that SPINNs will improve sample efficiency, interpretability, and task performance.
+
+At present, we focus on creating Spinner architectures within the logic/relational and functional programming paradigms.
 
 ## Meta-Reflective Programming
 
@@ -17,10 +19,10 @@ We intend to apply formal software verification techniques in order to establish
 
 # Projects
 - Relational Programming Neural Networks
-  - The **semKanren Machine** is a relational programming language interpreter that represents all symbols with vector embeddings. The semKanren Machine integrates vector database search into the unification process of miniKanren, enabling what we call *semantic unification*. Semantic unification allows the relational query engine to tolerate semantic ambiguity in queries. As the semKanren Machine is an interpreter, it requires that a programmer provide vector embeddings of query code to execute.
-  - The **neuroKanren Machine** augments the semKanren Machine with program learning in order to solve tasks autonomously.
+  - The **vectorKanren Machine** is a relational programming language interpreter that represents all symbols with vector embeddings. The vectorKanren Machine integrates vector database search into the unification process of miniKanren, enabling what we call *semantic unification*. Semantic unification allows the relational query engine to tolerate semantic ambiguity in queries. As the vectorKanren Machine is an interpreter, it requires that a programmer provide vector embeddings of query code to execute.
+  - The **neuroKanren Machine** is a Spinner, augmenting the vectorKanren Machine with program learning in order to solve tasks autonomously through self-programming.
 - Functional Programming Neural Networks
-  - The **Neural Lisp Machine** is an interpreter for Neural Lisp, which stores structured information using cons cells as in classical Lisp while representing all symbols with vector embeddings. Like the neuroKanren Machine, it is self-programming and intended to solve tasks autonomously.
+  - The **Neural Lisp Machine** is a Spinner that interprets Neural Lisp, storing structured information using cons cells as in classical Lisp while representing all symbols with vector embeddings. Like the neuroKanren Machine, it is self-programming and intended to solve tasks autonomously.
 
 # Programming Language of Thought
 
