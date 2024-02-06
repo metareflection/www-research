@@ -18,8 +18,8 @@ Complete, relational programming languages lend themselves to the task of progra
 
 # Collaborators
 
-- [Michael Ballantyne](https://mballantyne.net/) (Northeastern University)
 - [Rafaello Sanna](https://github.com/rvs314) (Harvard University)
+- [Michael Ballantyne](https://mballantyne.net/) (Northeastern University)
 - [William Byrd](http://webyrd.net/) (University of Alabama at Birmingham)
 - [Nada Amin](https://namin.seas.harvard.edu/about) (Harvard University)
 

@@ -7,6 +7,7 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Theory (semantics) and practice (architectures, examples) of dynamic reflection
 - Multi-stage programming to collapse levels of interpretation
 - Applications of computational reflection to learning theories in cognitive science and psychology
+- [Relational programming](logic)
 - [Architecture of neuro-symbolic computers](neuro)
 - Modular verification
 - Reasoning over knowledge graphs
