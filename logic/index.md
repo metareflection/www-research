@@ -4,7 +4,7 @@ We are working on the mechanization of logic and meta-logic. Logic is the study 
 
 # Current Research
 
-The basis of our mechanization is [miniKanren](http://minikanren.org/), a relational programming language which allows the concise expression of high-level ideas. We aim to develop extensions, techniques and software systems which use miniKanren in new and novel ways. These include staging systems, constraint solvers, optimizing compilers and runtime optimizations.
+The basis of our mechanization is [miniKanren](http://minikanren.org/), a relational programming language which allows the concise expression of high-level ideas. We aim to develop extensions, techniques and software systems which use miniKanren in new ways. These include staging systems, constraint solvers, optimizing compilers and runtime optimizations.
 
 # Applications
 
