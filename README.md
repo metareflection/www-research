@@ -1,6 +1,6 @@
-# metareflection.club
+# Research at the metareflection lab
 
-The [metareflection.club](https://metareflection.club) researches all aspects of static and dynamic reflection, programs / processes manipulating programs / processes.
+The metareflection lab researches all aspects of static and dynamic reflection, programs / processes manipulating programs / processes.
 
 ## Research Projects
 
