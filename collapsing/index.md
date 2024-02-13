@@ -23,6 +23,14 @@ Our goals are twofold:
 
 ### Collapsing Towers for Side-Channel Security
 
+Much recent attention has been placed on *microarchitectural* side-channel
+attacks, where hardware-level optimizations are exploited to leak information
+about a supposedly-secure process through differences in execution time. We
+propose to address this by collapsing the abstract semantics of the top-level
+program with the underlying hardware semantics to reify such side channel
+information into a form more amenable to formal verification. Then, we can use
+off-the-shelf static analyzers to discover and repair microarchitectural flaws.
+
 ## Collaborators
 
 - [Cameron Wong](https://camdar.io/) (Harvard University)
