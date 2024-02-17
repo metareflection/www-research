@@ -17,7 +17,7 @@ At present, we focus on creating NSAM architectures within the logic/relational 
 
 We believe that the sample efficiency of human learning arises in part from a capacity for meta-reflection, catching and learning from errors by reasoning about reasoning itself at multiple levels. Thus, we seek to create meta-reflective NSAMs, taking inspiration from [reflective towers of interpreters](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/).
 
-### Formal Verification of Safety in Neural Networks
+### Formal Verification of Safety in NSAMs
 
 We intend to apply formal software verification techniques in order to establish safety guarantees about our neural networks.
 
