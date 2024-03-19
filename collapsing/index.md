@@ -11,8 +11,9 @@ creeping in at the boundaries. Even worse, layers may not even have *consistent*
 semantics -- a Python interpreter may dynamically load performance instrumentation
 for certain functions mid-flight.
 
-We propose a way out. Via staged programming and specialization, we can
-*collapse* this tower into one program, operating under one semantics. 
+There *is* a way out. Via staged programming and specialization, we propose to
+*collapse* this tower into one program, operating under one semantics, which
+can be analyzed with classic tools.
 
 Our goals are twofold:
 
