@@ -1,4 +1,4 @@
-# Collapsing Towers for Fun and Profit
+# Collapsing Towers of Interpreters
 
 ## Research Goal
 
@@ -11,8 +11,8 @@ creeping in at the boundaries. Even worse, layers may not even have *consistent*
 semantics -- a Python interpreter may dynamically load performance instrumentation
 for certain functions mid-flight.
 
-There *is* a way out. Via staged programming and specialization, we can
-*collapse* this tower into one program, operating under one semantics.
+We propose a way out. Via staged programming and specialization, we can
+*collapse* this tower into one program, operating under one semantics. 
 
 Our goals are twofold:
 
@@ -30,6 +30,10 @@ propose to address this by collapsing the abstract semantics of the top-level
 program with the underlying hardware semantics to reify such side channel
 information into a form more amenable to formal verification. Then, we can use
 off-the-shelf static analyzers to discover and repair microarchitectural flaws.
+
+## Papers
+
+- [Collapsing Towers of Interpreters](https://dl.acm.org/doi/10.1145/3158140) (POPL '18)
 
 ## Collaborators
 
