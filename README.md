@@ -26,6 +26,7 @@ The metareflection lab researches all aspects of static and dynamic reflection, 
 
 ## Motto
 
+- Hack for insights.
 - Reflect to internalize.
 - The rules of the game are part of the game.
 
