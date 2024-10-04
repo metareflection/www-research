@@ -13,6 +13,9 @@ The metareflection lab researches all aspects of static and dynamic reflection, 
 - Reasoning over knowledge graphs
 - Joining relational programming and SMT (Satisfiability Modulo Theories) solving
 - Unifying probabilistic and constraint/logic programming
+- Verified program synthesis
+- PL/AI/LLMs for precision medicine, including drug repurposing
+- Semi-interactive collaborative problem solving with LLMs
 
 ## Programming Languages
 
