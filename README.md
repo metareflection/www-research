@@ -5,7 +5,7 @@ The metareflection lab researches all aspects of static and dynamic reflection, 
 ## Research Projects
 
 - Theory (semantics) and practice (architectures, examples) of dynamic reflection
-- Multi-stage programming to collapse levels of interpretation
+- [Multi-stage programming to collapse levels of interpretation](collapsing)
 - Applications of computational reflection to learning theories in cognitive science and psychology
 - [Mechanization of logic and meta-logic](logic)
 - [Architecture of neuro-symbolic computers](neuro)
