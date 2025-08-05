@@ -19,8 +19,8 @@ The metareflection lab researches all aspects of static and dynamic reflection, 
 
 ## Programming Languages
 
-- Coq, Lean
-- SMTLIB, Dafny, Idris, F*
+- Dafny, SMTLIB
+- Lean, Rocq, Idris, F*
 - Scala, OCaml, F#, SML
 - miniKanren, Prolog
 - Scheme, Common Lisp, Clojure
